@@ -1,4 +1,5 @@
-<!--# Saleh Baaisharah
+<!--
+# Saleh Baaisharah
 
 ## About Me
 
@@ -25,7 +26,8 @@ I am a recent graduate in Mechatronics Engineering from UMP, with a passion for 
 - Bachelor of Science in Mechatronics Engineering, Universiti Malaysia Pahang, 2023
 
 ## Contact
-<a href="https://linkedin.com/in/saleh-baaisharah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleh-baaisharah" height="30" width="40" /></a>
+<a href="mailto:S.s.baaisharah@gmail.com"><img src="https://img.icons8.com/fluency-systems-regular/48/000000/email-open.png" alt="Email"></a> <a href="(https://www.linkedin.com/in/saleh-baaisharah/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+
 
 Feel free to reach out to me if you have any questions or would like to discuss potential opportunities.
 
